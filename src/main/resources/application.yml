@@ -1,0 +1,7 @@
+server:
+  port: 8080
+spring:
+  main:
+    banner-mode: "off"
+gateway:
+  url: https://api.service.com/
